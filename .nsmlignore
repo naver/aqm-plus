@@ -1,0 +1,10 @@
+dataset/
+.vscode/
+dialog_output/
+data/
+scripts/
+.idea/
+*.ipynb
+*.txt
+resources/
+temp/

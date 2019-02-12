@@ -1,0 +1,10 @@
+torch==0.3.1
+six
+markdown2
+numpy
+pyyaml
+h5py
+sklearn
+visdom
+nltk
+flask
